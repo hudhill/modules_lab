@@ -1,5 +1,5 @@
 from modules.output import *
-from modules.task_list import tasks
+from data.task_list import tasks
 
 def print_menu():
     print("Options:")
